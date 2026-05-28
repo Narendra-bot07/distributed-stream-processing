@@ -1,0 +1,5 @@
+v1
+{"path":"file:///D:/PICTURES/OneDrive/Desktop/Kafka/pyspark/data/silver/movies/part-00000-a71deace-5319-4bae-8ef0-a031b3ab6ddf-c000.snappy.parquet","size":4891,"isDir":false,"modificationTime":1777617316068,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///D:/PICTURES/OneDrive/Desktop/Kafka/pyspark/data/silver/movies/part-00001-cc21f71e-bc77-4013-b07f-265d48b806a2-c000.snappy.parquet","size":4867,"isDir":false,"modificationTime":1777617316055,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///D:/PICTURES/OneDrive/Desktop/Kafka/pyspark/data/silver/movies/part-00002-bcbe26bd-861e-4407-a1c4-c6cd03419e97-c000.snappy.parquet","size":4816,"isDir":false,"modificationTime":1777617316056,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///D:/PICTURES/OneDrive/Desktop/Kafka/pyspark/data/silver/movies/part-00003-40648f0c-dcca-46fb-9a4b-09dd64581a58-c000.snappy.parquet","size":4827,"isDir":false,"modificationTime":1777617316078,"blockReplication":1,"blockSize":33554432,"action":"add"}

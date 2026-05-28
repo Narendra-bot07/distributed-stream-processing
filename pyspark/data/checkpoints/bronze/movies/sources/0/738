@@ -1,0 +1,3 @@
+v1
+{"path":"file:///D:/PICTURES/OneDrive/Desktop/Kafka/pyspark/data/landing/movies/part-00000-4dd24d9d-cf49-4983-8146-bad1432ed7cf-c000.snappy.parquet","timestamp":1777617820949,"batchId":738}
+{"path":"file:///D:/PICTURES/OneDrive/Desktop/Kafka/pyspark/data/landing/movies/part-00000-a2873742-0022-4451-9e39-d2512731ea04-c000.snappy.parquet","timestamp":1777617825960,"batchId":738}

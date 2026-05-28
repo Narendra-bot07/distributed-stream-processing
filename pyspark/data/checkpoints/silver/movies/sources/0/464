@@ -1,0 +1,5 @@
+v1
+{"path":"file:///D:/PICTURES/OneDrive/Desktop/Kafka/pyspark/data/bronze/movies/part-00000-a0601bef-f07e-4fef-88af-81e6cf6c2e28-c000.snappy.parquet","timestamp":1777618020952,"batchId":464}
+{"path":"file:///D:/PICTURES/OneDrive/Desktop/Kafka/pyspark/data/bronze/movies/part-00001-44768ee8-7163-42af-ac61-33fa3c793684-c000.snappy.parquet","timestamp":1777618020962,"batchId":464}
+{"path":"file:///D:/PICTURES/OneDrive/Desktop/Kafka/pyspark/data/bronze/movies/part-00000-adf6df64-f39b-4b9b-8968-6b4b5a332114-c000.snappy.parquet","timestamp":1777618031066,"batchId":464}
+{"path":"file:///D:/PICTURES/OneDrive/Desktop/Kafka/pyspark/data/bronze/movies/part-00001-4e3cb420-309a-405c-98c1-7f8ce80c5d91-c000.snappy.parquet","timestamp":1777618031066,"batchId":464}

@@ -1,0 +1,3 @@
+v1
+{"path":"file:///D:/PICTURES/OneDrive/Desktop/Kafka/pyspark/data/bronze/movies/part-00000-af458985-ad13-4976-82bc-bef1ac1e6813-c000.snappy.parquet","size":4388,"isDir":false,"modificationTime":1777617750922,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///D:/PICTURES/OneDrive/Desktop/Kafka/pyspark/data/bronze/movies/part-00001-88210114-106a-4b07-88aa-fdf32c661332-c000.snappy.parquet","size":4279,"isDir":false,"modificationTime":1777617750923,"blockReplication":1,"blockSize":33554432,"action":"add"}
